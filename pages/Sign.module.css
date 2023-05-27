@@ -1,0 +1,25 @@
+.sign {
+  width: 80vw;
+  margin: 0 auto;
+  margin-top: 2rem;
+}
+.input {
+  width: 100%;
+  margin: 1rem 1rem 1rem 0;
+}
+.btn {
+  font-size: 1rem;
+  font-weight: 700;
+  width: 100%;
+  padding: 1rem;
+}
+.submitBtn {
+  color: #fff;
+  background-color: var(--primary);
+  margin-bottom: 1rem;
+}
+.errorMessage {
+  color: var(--error);
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+}
