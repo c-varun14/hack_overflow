@@ -1,0 +1,16 @@
+.navbar {
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.7rem 1rem;
+  color: #424553;
+  box-shadow: 0 1px 2px 0 rgba(148, 150, 159, 0.3);
+}
+
+.logo {
+  width: 3rem;
+  height: 2rem;
+}
+
+.links > * {
+  padding: 0 0.5rem;
+}
